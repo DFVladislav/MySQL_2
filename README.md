@@ -848,3 +848,7 @@ SELECT * FROM my_actions LIMIT 5;
 ![Результат SQL-запроса](screenshots/01-tables-before-insert.png)
 
 ![Результат команды в терминале](screenshots/02-innodb-files.png)
+
+![Результат SELECT-запросов](screenshots/03-customer-select.png)
+
+![Включение общего лога MySQL](screenshots/04-enable-general-log.png)
